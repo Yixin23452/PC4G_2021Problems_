@@ -1,0 +1,3 @@
+starter = int(input (""))
+multiplier = int(input (""))
+print (starter*multiplier, starter*multiplier*multiplier, starter*multiplier*multiplier*multiplier)
