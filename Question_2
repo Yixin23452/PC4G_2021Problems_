@@ -1,0 +1,2 @@
+cruella = int( input ("") )
+print ("Jane receives at least", cruella*2, "cards.")
